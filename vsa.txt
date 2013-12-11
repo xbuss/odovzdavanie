@@ -1,2 +1,4 @@
 zaciname
 
+pridany druhy riadok
+
