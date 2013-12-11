@@ -3,5 +3,4 @@ zaciname
 pridany druhy riadok
 
 
-priadame treti riadok
 
